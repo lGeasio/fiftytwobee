@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>rnr</title>
+    <title>52b</title>
     <style>
         html, body {
             margin: 0;
@@ -37,7 +37,7 @@
             const container = document.getElementById("ruffle-container"); 
             container.appendChild(player);
             player.load({
-                url: "messyl.swf",
+                url: "52b.swf",
                 letterbox: "on",
                 autoplay: "on",               
                 unmuteOverlay: "hidden"
